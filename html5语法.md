@@ -19,6 +19,7 @@ border-color: green;
 border-width: 10px;
 border-style: solid;
 border-radius: 50%;
+
 }
 
 .smaller-image {
@@ -68,3 +69,5 @@ css 格式
 </form>
 ```
 表单、单选框、复选框、文本输入、按钮
+
+checked 表示默认被选中 
